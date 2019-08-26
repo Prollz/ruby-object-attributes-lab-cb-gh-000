@@ -16,7 +16,3 @@ class Person
     @job = new_job
   end
 end
-
-kanye = Person.new("Kanye")
-kanye.name
-kanye.name = "Yeezy"
