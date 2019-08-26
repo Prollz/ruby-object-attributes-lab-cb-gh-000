@@ -9,3 +9,7 @@ class Person
     @name = new_name
   end
 end
+
+kanye = Person.new("Kanye")
+kanye.name
+kanye.name = "Yeezy"
